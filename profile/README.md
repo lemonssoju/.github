@@ -1,6 +1,9 @@
 # Neverland
+> 생성형 AI 기반 단체 추억 아카이빙 앱 서비스
 
 ## 🚀 System Architecture
+![architecture](https://github.com/lemonssoju/.github/assets/80838501/f9e6a5f3-fcbe-442b-9314-55874d10bdf4)
+
 ## 🛠️ Tech Stacks
 
 ## ✨ Features
