@@ -26,5 +26,5 @@
 ## 🔗 Open Source Libraries and SDK
 [Stability AI's Stable Diffusion](https://platform.stability.ai/docs/api-reference#tag/SDXL-and-SD1.6) <br>
 [Kakao Map API](https://developers.kakao.com/docs/latest/ko/local/dev-guide) <br>
-[React Native Maps](https://github.com/react-native-maps/react-native-maps)
-
+[React Native Maps](https://github.com/react-native-maps/react-native-maps) <br>
+[Chat-GPT 3.5 Java Client](https://github.com/TheoKanning/openai-java)
