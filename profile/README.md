@@ -19,6 +19,21 @@ This enhances the diversity and efficiency of the memory archiving process.
 <br>
 
 ## 🚀 Getting Started
+### Development
+1. Clone client repository<br>
+``` $ git clone https://github.com/lemonssoju/neverland-client.git ```
+2. Install node packages with yarn<br>
+``` $ yarn install ```
+3. Add Info.plist in ios/neverland and install pod<br>
+``` $ cd ios && pod install ```
+4. Set environment variables<br>
+```
+- .env: API_URL, STABILITY_API_KEY
+- env.d.ts
+- android/local.properties: google_map_api_key
+```
+5. Start developing<br>
+``` $ yarn start ```
 
 ## 📌 System Architecture
 ![architecture](https://github.com/lemonssoju/.github/assets/80838501/f9e6a5f3-fcbe-442b-9314-55874d10bdf4)
