@@ -62,6 +62,29 @@ This enhances the diversity and efficiency of the memory archiving process.
 <br>
 
 ## ✨ Features
+![7](https://github.com/lemonssoju/.github/assets/80838501/7e986297-6a28-4f73-8247-b03c3e8021a3)
+
+![8](https://github.com/lemonssoju/.github/assets/80838501/10fe300f-91d2-4988-bd7a-e0b2de51541d)
+
+![9](https://github.com/lemonssoju/.github/assets/80838501/cdde5921-0e03-4e58-872e-a0a3f45d5952)
+
+![10](https://github.com/lemonssoju/.github/assets/80838501/89c33752-5683-453b-b536-afec175f8ec5)
+
+![11](https://github.com/lemonssoju/.github/assets/80838501/4375aa65-6be5-4cf4-ae2f-81db03f78074)
+
+![12](https://github.com/lemonssoju/.github/assets/80838501/092499f4-58ea-4478-9322-7db0beb15d22)
+
+![13](https://github.com/lemonssoju/.github/assets/80838501/21b9c5d4-685f-4fb3-b235-8641bf3f222d)
+
+<br>
+
+### ✨ Core Feature Logic
+The core logic of Neverland, the image auto-generation, is powered by **Chat-GPT** and **Stable Diffusion**, and it operates through the following workflow.
+![Core Feature](https://github.com/lemonssoju/.github/assets/80838501/27df34c4-36e2-48ea-b1ad-640a69450cca)
+
+<br>
+<br>
+
 
 ## 🧩 Contributors
 |Joonghyun Kim|Seojin Kwak|Somin Ji|
