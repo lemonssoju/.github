@@ -4,6 +4,19 @@
 </div>
 
 ## 📱 About the Project
+> Automatically Record and Preserve Group Memories
+
+**Neverland** is a service that provides an efficient way to record and archive the memories of groups and organizations.
+
+#### Automatically Record and Preserve Group Memories
+
+Neverland allows users to automatically compile and generate a unified record of the group's memories, even when individuals remember them differently. Leveraging generative AI technology, this feature enables groups to conveniently and efficiently document their shared experiences.
+
+#### Effective Memory Archiving
+Neverland systematically organizes and stores the group's memory records from both temporal and spatial perspectives.
+This enhances the diversity and efficiency of the memory archiving process.
+<br>
+<br>
 
 ## 🚀 Getting Started
 
@@ -24,6 +37,8 @@
 
 #### Develop tools
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<br>
+<br>
 
 ### Backend
 #### Backend
