@@ -34,6 +34,7 @@ This enhances the diversity and efficiency of the memory archiving process.
 ```
 5. Start developing<br>
 ``` $ yarn start ```
+<br>
 
 ## 📌 System Architecture
 ![architecture](https://github.com/lemonssoju/.github/assets/80838501/f9e6a5f3-fcbe-442b-9314-55874d10bdf4)
