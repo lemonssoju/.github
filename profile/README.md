@@ -1,6 +1,6 @@
 # Neverland
 <div align="center">
-  <img src="https://github.com/lemonssoju/.github/assets/80838501/f6e8fc29-454e-4093-9f10-3c5bda38f3fc" />
+  <img src="https://github.com/lemonssoju/.github/assets/80838501/84a0c925-0bc7-4dc7-b3ed-75ef5160a919" />
 </div>
 
 ## 📱 About the Project
